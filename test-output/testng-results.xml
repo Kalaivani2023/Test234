@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-04T18:52:21 IST" name="Default suite" finished-at="2023-02-04T18:52:33 IST" duration-ms="11315">
+    <groups>
+    </groups>
+    <test started-at="2023-02-04T18:52:21 IST" name="Default test" finished-at="2023-02-04T18:52:33 IST" duration-ms="11315">
+      <class name="practice.testng.CheapOairRun">
+        <test-method signature="CheapOairExecution()[pri:0, instance:practice.testng.CheapOairRun@659499f1]" started-at="2023-02-04T18:52:21 IST" name="CheapOairExecution" finished-at="2023-02-04T18:52:33 IST" duration-ms="11255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheapOairExecution -->
+      </class> <!-- practice.testng.CheapOairRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
